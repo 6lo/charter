@@ -36,6 +36,7 @@ protocols and mechanisms whenever reasonable and possible.
 
 Security and management work that is not specific to the link layers
 being worked on is out of scope.
+Work related to routing is out of scope.
 6Lo will coordinate closely with the working groups in other areas
 that focus on constrained node networks, such as today ROLL (RTG) and
 CoRE (APP), and appropriate groups in the IETF OPS and Security areas
