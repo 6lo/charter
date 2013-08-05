@@ -10,7 +10,8 @@ Focus
 as defined in section 2.1. and 2.2. of draft-ietf-lwig-terminology.
 Specifically, it is working on
 
-- IPv6-over-foo using 6lowpan (RFC4944) specifications for link layer technologies of
+- IPv6-over-foo specifications using 6LoWPAN technologies
+   (RFC4944, RFC6282, RFC6775) for link layer technologies of
    interest in constrained node networks;
 - related MIBs;
 - common infrastructure specification such as header compression
@@ -18,7 +19,7 @@ Specifically, it is working on
 - maintenance and informational documents required for the existing
    IETF specifications in this space.
 
-Only specifications targeting constrained nodes and constrained networks, 
+Only specifications targeting constrained nodes and constrained networks,
 according to the definition in draft-ietf-lwig-terminology, are in scope.
 6Lo will work closely with the 6man working group, which will continue
 to work on IP-over-foo documents outside the constrained node network
